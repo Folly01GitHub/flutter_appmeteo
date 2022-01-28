@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e15e315a-5eb5-47f4-8b77-64d39889b147" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="24ENZIi0gGf4Oqg2WNxWNxvTJ9R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/weather_app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e15e315a-5eb5-47f4-8b77-64d39889b147" name="Default Changelist" comment="" />
+      <created>1643191840131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643191840131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="195" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643192352815">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1643192352815" />
+    <state x="689" y="349" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1643403237356">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="349" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1643403237356" />
+    <state x="92" y="92" width="1736" height="896" key="AVDManager" timestamp="1643405702816">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="AVDManager/0.0.1920.1080@0.0.1920.1080" timestamp="1643405702816" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1643193997366">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1643193997366" />
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1643403796743">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1643403796743" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1643403796743">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1643403796743" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1643403796743">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1643403796743" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1643403796743">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1643403796743" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1643196280665">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1643196280665" />
+  </component>
+</project>
